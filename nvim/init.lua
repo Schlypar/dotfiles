@@ -29,7 +29,24 @@ require("lazy").setup({
         "mfussenegger/nvim-dap",
     },
     {
+        "jay-babu/mason-nvim-dap.nvim",
+        event = "VeryLazy",
+
+        dependencies = {
+            "williamboman/mason.nvim",
+            "mfussenegger/nvim-dap",
+        },
+        opts = {
+            handlers = {},
+            ensure_installed = {
+                "codelldb",
+            }
+        }
+    },
+    {
         "rcarriga/nvim-dap-ui",
+        event = "VeryLazy",
+
         dependencies = { "mfussenegger/nvim-dap" },
         config = function()
             local dap = require("dap")

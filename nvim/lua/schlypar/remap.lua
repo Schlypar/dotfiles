@@ -47,4 +47,19 @@ vim.keymap.set("n", "<leader><leader>", function()
     vim.cmd("so")
 end)
 
-vim.keymap.set("n", "<leader>db", "<cmd> DapToggleBreakpoint <CR>")
+-- vim.keymap.set("n", "<leader>db", "<cmd> DapToggleBreakpoint <CR>")
+vim.keymap.set("n", "<leader>db", function ()
+    require'dap'.toggle_breakpoint()
+end)
+
+vim.keymap.set("n", "<F5>", function ()
+    require'dap'.continue()
+end)
+
+vim.keymap.set("n", "<F10>", function ()
+    require'dap'.step_over()
+end)
+
+vim.keymap.set("n", "<F11>", function ()
+    require'dap'.step_into()
+end)
