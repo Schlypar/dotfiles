@@ -157,6 +157,12 @@ require("lazy").setup({
             })
         end,
     },
+    {
+        'stevearc/oil.nvim',
+        opts = {},
+        -- Optional dependencies
+        dependencies = { "nvim-tree/nvim-web-devicons" },
+    },
 	{
 		"ellisonleao/gruvbox.nvim",
 		priority = 1000,
