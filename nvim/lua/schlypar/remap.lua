@@ -63,3 +63,18 @@ end)
 vim.keymap.set("n", "<F11>", function ()
     require'dap'.step_into()
 end)
+
+vim.keymap.set("n", "<C-h>", "<cmd> TmuxNavigateLeft <CR>", {desc = "window left"})
+vim.keymap.set("n", "<C-l>", "<cmd> TmuxNavigateRight <CR>", {desc = "window right"})
+vim.keymap.set("n", "<C-j>", "<cmd> TmuxNavigateDown <CR>", {desc = "window down"})
+vim.keymap.set("n", "<C-k>", "<cmd> TmuxNavigateUp <CR>", {desc = "window up"})
+
+vim.keymap.set("n", "<C-Right>", "nil")
+vim.keymap.set("n", "<C-Left>", "nil")
+vim.keymap.set("n", "<C-Down>", "nil")
+vim.keymap.set("n", "<C-Up>", "nil")
+
+vim.keymap.set("n", "<C-Left>", "<cmd> TmuxNavigateLeft <CR>", {desc = "window left"})
+vim.keymap.set("n", "<C-Right>", "<cmd> TmuxNavigateRight <CR>", {desc = "window right"})
+vim.keymap.set("n", "<C-Down>", "<cmd> TmuxNavigateDown <CR>", {desc = "window down"})
+vim.keymap.set("n", "<C-Up>", "<cmd> TmuxNavigateUp <CR>", {desc = "window up"})

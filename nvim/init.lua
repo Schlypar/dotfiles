@@ -26,6 +26,10 @@ require("lazy").setup({
 		event = { "BufReadPost", "BufNewFile" },
 	},
     {
+        'christoomey/vim-tmux-navigator',
+        lazy = false,
+    },
+    {
         "mfussenegger/nvim-dap",
     },
     {
