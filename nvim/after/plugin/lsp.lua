@@ -5,14 +5,16 @@ lsp.preset("recommended")
 lsp.ensure_installed({
 	'clangd',
 	'rust_analyzer',
-    'pyright',
+    -- 'pyright',
+    -- "python-lsp-server",
 })
 
 local mason = require("mason")
 
 mason.ensure_installed = {
     -- 'mypy',
-    -- 'ruff',
+    'ruff',
+    -- "python-lsp-server",
     'black',
     'debugpy',
 }
@@ -37,6 +39,18 @@ lsp.setup_nvim_cmp({
 	mapping = cmp_mappings
 })
 
+require'cmp'.setup({
+    sources = cmp.config.sources({
+        { name = 'nvim_lsp' },
+        -- { name = 'vsnip' }, -- For vsnip users.
+        { name = 'luasnip' }, -- For luasnip users.
+        -- { name = 'ultisnips' }, -- For ultisnips users.
+        -- { name = 'snippy' }, -- For snippy users.
+    }, {
+        { name = 'buffer' },
+    })
+})
+
 lsp.set_preferences({
 	suggest_lsp_servers = false,
 	sign_icons = {
@@ -51,16 +65,16 @@ lsp.on_attach(function(client, bufnr)
 	local opts = {buffer = bufnr, remap = false}
     lsp.default_keymaps({buffer = bufnr})
 
-	vim.keymap.set("n", "gd", function() vim.lsp.buf.definition() end, opts)
-	vim.keymap.set("n", "K", function() vim.lsp.buf.hover() end, opts)
-	vim.keymap.set("n", "<leader>vws", function() vim.lsp.buf.workspace_symbol() end, opts)
-	vim.keymap.set("n", "<leader>vd", function() vim.diagnostic.open_float() end, opts)
-	vim.keymap.set("n", "[d", function() vim.diagnostic.goto_next() end, opts)
-	vim.keymap.set("n", "]d", function() vim.diagnostic.goto_prev() end, opts)
-	vim.keymap.set("n", "<leader>vca", function() vim.lsp.buf.code_action() end, opts)
-	vim.keymap.set("n", "<leader>vrr", function() vim.lsp.buf.references() end, opts)
-	vim.keymap.set("n", "<leader>vrn", function() vim.lsp.buf.rename() end, opts)
-	vim.keymap.set("i", "<C-h>", function() vim.lsp.buf.signature_help() end, opts)
+	vim.keymap.set("n", "gd", function() vim.lsp.buf.definition() end, {desc = "Go to definition"})
+	vim.keymap.set("n", "K", function() vim.lsp.buf.hover() end, {desc = "Show type / prototype"})
+	vim.keymap.set("n", "<leader>ws", function() vim.lsp.buf.workspace_symbol() end, {desc = "Show ocurrences of symbol"})
+	vim.keymap.set("n", "<leader>vd", function() vim.diagnostic.open_float() end, {desc = "Show diagnostics (errors)"})
+	vim.keymap.set("n", "[d", function() vim.diagnostic.goto_next() end, {desc = "Go to next diagnostic message"})
+	vim.keymap.set("n", "]d", function() vim.diagnostic.goto_prev() end, {desc = "Go to prev diagnostic message"})
+	vim.keymap.set("n", "<leader>vca", function() vim.lsp.buf.code_action() end, {desc = "Code action"})
+	vim.keymap.set("n", "<leader>vrr", function() vim.lsp.buf.references() end, {desc = "Show symbol references"})
+	vim.keymap.set("n", "<leader>vrn", function() vim.lsp.buf.rename() end, {desc = "Rename symbol"})
+	vim.keymap.set("i", "<C-h>", function() vim.lsp.buf.signature_help() end, {desc = "Signature help"})
 end)
 
 vim.diagnostic.config({
@@ -78,7 +92,7 @@ null_ls.setup({
 
         formatting.black,
         -- lint.mypy,
-        lint.ruff,
+        -- lint.ruff,
     },
 })
 

@@ -45,6 +45,6 @@ size = 10,
   }
 }
 
-vim.keymap.set("n", "<leader>cg", function () vim.cmd("CMakeGenerate") end)
-vim.keymap.set("n", "<leader>cb", function () vim.cmd("CMakeBuild") end)
-vim.keymap.set("n", "<leader>cr", function () vim.cmd("CMakeRun") end)
+vim.keymap.set("n", "<leader>cg", function () vim.cmd("CMakeGenerate") end, {desc = "Cmake generate files"})
+vim.keymap.set("n", "<leader>cb", function () vim.cmd("CMakeBuild") end, {desc = "Cmake build files"})
+vim.keymap.set("n", "<leader>cr", function () vim.cmd("CMakeRun") end, {desc = "Cmake run project"})

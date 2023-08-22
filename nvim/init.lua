@@ -76,6 +76,35 @@ require("lazy").setup({
             require("dap-python").setup(path)
         end
     },
+    {
+        "rust-lang/rust.vim",
+        ft = "rust",
+        init = function ()
+            vim.g.rustfmt_autosave = 1
+        end
+    },
+    {
+        "simrat39/rust-tools.nvim",
+        ft = "rust",
+        -- opts = function ()
+        --     return require "after.rust-tools"
+        -- end,
+        -- config = function (_, opts)
+        --     require('rust-tools').setup(opts)
+        -- end
+    },
+    {
+        "saecki/crates.nvim",
+        ft = {"rust", "toml"},
+        config = function (_, opts)
+            local crates = require "crates"
+            crates.setup(opts)
+            crates.show()
+        end,
+    },
+    {
+        "lukas-reineke/indent-blankline.nvim",
+    },
 	{
 		"theprimeagen/harpoon"
 	},
@@ -103,13 +132,13 @@ require("lazy").setup({
             require('Comment').setup()
         end
     },
-    -- {
-    --     "L3MON4D3/LuaSnip",
-    --     version = "<CurrentMajor>.*",
-    --     -- config = function()
-    --     --     require("luasnip").setup()
-    --     -- end,
-    -- },
+    {
+        "L3MON4D3/LuaSnip",
+        version = "<CurrentMajor>.*",
+        -- config = function()
+        --     require("luasnip").setup({})
+        -- end,
+    },
     {
         'glepnir/dashboard-nvim',
         event = 'VimEnter',
@@ -204,18 +233,18 @@ require("lazy").setup({
         priority = 1000,
         config = function()
             require("catppuccin").setup({
-                flavour = "mocha", -- latte, frappe, macchiato, mocha
+                flavour = "macchiato", -- latte, frappe, macchiato, mocha
                 background = { -- :h background
                 light = "latte",
                 dark = "mocha",
             },
             transparent_background = false, -- disables setting the background color.
-            show_end_of_buffer = false, -- shows the '~' characters after the end of buffers
+            show_end_of_buffer = true, -- shows the '~' characters after the end of buffers
             term_colors = true, -- sets terminal colors (e.g. `g:terminal_color_0`)
             dim_inactive = {
-                enabled = false, -- dims the background color of inactive window
+                enabled = true, -- dims the background color of inactive window
                 shade = "dark",
-                percentage = 0.15, -- percentage of the shade to apply to the inactive window
+                percentage = 0.0, -- percentage of the shade to apply to the inactive window
             },
             no_italic = false, -- Force no italic
             no_bold = false, -- Force no bold
@@ -223,8 +252,8 @@ require("lazy").setup({
             styles = { -- Handles the styles of general hi groups (see `:h highlight-args`):
             comments = { "italic" }, -- Change the style of comments
             conditionals = { "italic" },
-            loops = {},
-            functions = {},
+            loops = { "italic" },
+            functions = { "bold", "italic" },
             keywords = {},
             strings = {},
             variables = {},
@@ -242,7 +271,7 @@ require("lazy").setup({
             nvimtree = true,
             telescope = true,
             notify = false,
-            mini = false,
+            mini = true,
             -- For more plugins integrations please scroll down (https://github.com/catppuccin/nvim#integrations)
         },
     })
