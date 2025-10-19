@@ -18,6 +18,8 @@ PopupWindow {
 
     property bool isOpen: false
 
+    visible: isOpen
+
     implicitWidth: 700
     //implicitHeight: popupContent.implicitHeight + popupContent.anchors.margins * 2
     implicitHeight: 800
