@@ -52,7 +52,7 @@ A minimal and efficient desktop configuration centered around Hyprland with Quic
 
 ## Installation
 
-Refer to the respective repositories for installation instructions for each component. Most dependencies are available through your system's package manager.
+Refer to the respective repositories for installation instructions for each component. Most dependencies are available through your system's package manager. Also you must edit quickshell config to replace my nickname with yours.
 
 ## Features
 
