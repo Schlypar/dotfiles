@@ -1,5 +1,6 @@
 $HOME|assets|
 $HOME/.config|hypr|
+$HOME/.config|kitty|
 $HOME/.config|nvim|
 $HOME/.config|quickshell|
 $HOME/.config|tmux|
