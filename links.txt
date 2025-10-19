@@ -1,0 +1,7 @@
+$HOME|assets|
+$HOME/.config|hypr|
+$HOME/.config|nvim|
+$HOME/.config|quickshell|
+$HOME/.config|tmux|
+$HOME/.local/share|tmux/tmux-sessionizer.sh|t
+$HOME/.local/share|hypr/togglemute.sh|togglemute
