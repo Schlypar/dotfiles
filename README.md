@@ -9,6 +9,7 @@ A minimal and efficient desktop configuration centered around Hyprland with Quic
 - **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - **Editor**: [Neovim 0.11+](https://neovim.io/)
 - **Shell**: Zsh
+- **Prompt**: [Starship](https://starship.rs/)
 - **Terminal Multiplexer**: [tmux](https://github.com/tmux/tmux)
 
 ## Dependencies
@@ -19,6 +20,7 @@ A minimal and efficient desktop configuration centered around Hyprland with Quic
 - [tmux plugin manager](https://github.com/tmux-plugins/tpm)
 - [smart tmux sessionizer](https://github.com/joshmedeski/t-smart-tmux-session-manager)
 - [Quickshell](https://github.com/qs-wayland/quickshell) with qt6-5compat
+- [Starship](https://starship.rs/) cross-shell prompt
 
 ### Hyprland Utilities
 - hyprpolkitagent
@@ -57,6 +59,7 @@ Refer to the respective repositories for installation instructions for each comp
 - **Hyprland**: Modern Wayland compositor with tiling window management
 - **Quickshell**: Fast application launcher for Wayland
 - **Neovim + tmux**: Powerful terminal-based development environment
+- **Starship**: Fast and customizable cross-shell prompt
 - **Smart session management**: Efficient workspace organization with t-smart-tmux-session-manager
 - **Complete audio stack**: PipeWire with WirePlumber for modern audio handling
 - **Media control**: MPD integration with MPRIS support
@@ -67,5 +70,6 @@ After installation, the configuration provides:
 - Seamless window management with Hyprland
 - Quick application launching via Quickshell
 - Advanced text editing with Neovim
+- Beautiful and fast shell prompt with Starship
 - Terminal session persistence with tmux
 - Integrated media control and audio management
