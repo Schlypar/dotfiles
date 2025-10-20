@@ -11,6 +11,7 @@ PanelWindow {
 
     required property var bar
     property list<Notification> notifs
+    property int maxNotifications: 7
 
     WlrLayershell.namespace: "shell:notifications"
     exclusionMode: ExclusionMode.Ignore
@@ -28,7 +29,23 @@ PanelWindow {
 
         onNotification: notif => {
             notif.tracked = true;
-            root.notifs = [...root.notifs, notif];
+            
+            // Create new array with the new notification
+            let newNotifs = [...root.notifs];
+            
+            // If we've reached max capacity, remove the oldest one
+            if (newNotifs.length >= root.maxNotifications) {
+                // Remove the oldest notification (first in array)
+                const oldestNotif = newNotifs.shift();
+                // Manually dismiss the oldest notification
+                if (oldestNotif) {
+                    oldestNotif.dismiss();
+                }
+            }
+            
+            // Add the new notification
+            newNotifs.push(notif);
+            root.notifs = newNotifs;
         }
     }
 
@@ -79,11 +96,15 @@ PanelWindow {
             notif: modelData
 
             onDismissed: () => {
+                // Manually dismiss the notification
                 modelData.dismiss();
                 // Remove from list
                 const index = root.notifs.indexOf(notif);
-                if (index > -1)
-                    root.notifs.splice(index, 1);
+                if (index > -1) {
+                    let newNotifs = [...root.notifs];
+                    newNotifs.splice(index, 1);
+                    root.notifs = newNotifs;
+                }
             }
         }
     }
