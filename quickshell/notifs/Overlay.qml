@@ -11,7 +11,7 @@ PanelWindow {
 
     required property var bar
     property list<Notification> notifs
-    property int maxNotifications: 7
+    property int maxNotifications: 5
 
     WlrLayershell.namespace: "shell:notifications"
     exclusionMode: ExclusionMode.Ignore
