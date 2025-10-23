@@ -24,6 +24,34 @@ PanelWindow {
         right: true
     }
 
+    // Timer to clear first notification every 6 seconds
+    Timer {
+        id: clearTimer
+        interval: 6000 // 6 seconds
+        repeat: true
+        running: root.notifs.length > 0 // Only run when there are notifications
+        onTriggered: {
+            if (root.notifs.length > 0) {
+                // Remove the first (oldest) notification
+                const oldestNotif = root.notifs[0];
+                let newNotifs = [...root.notifs];
+                newNotifs.shift(); // Remove first element
+                
+                // Manually dismiss the notification
+                if (oldestNotif) {
+                    oldestNotif.dismiss();
+                }
+                
+                root.notifs = newNotifs;
+                
+                // Stop timer if no more notifications, will restart when new notifications arrive
+                if (root.notifs.length === 0) {
+                    clearTimer.stop();
+                }
+            }
+        }
+    }
+
     NotificationServer {
         actionsSupported: true
 
@@ -46,6 +74,11 @@ PanelWindow {
             // Add the new notification
             newNotifs.push(notif);
             root.notifs = newNotifs;
+            
+            // Start the timer when a new notification arrives
+            if (!clearTimer.running) {
+                clearTimer.start();
+            }
         }
     }
 
@@ -104,6 +137,11 @@ PanelWindow {
                     let newNotifs = [...root.notifs];
                     newNotifs.splice(index, 1);
                     root.notifs = newNotifs;
+                    
+                    // Stop timer if no more notifications
+                    if (root.notifs.length === 0) {
+                        clearTimer.stop();
+                    }
                 }
             }
         }
