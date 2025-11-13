@@ -1,5 +1,7 @@
-vim.lsp.enable('clangd')
-vim.lsp.enable('luals')
+-- vim.lsp.enable('clangd')
+-- vim.lsp.enable('luals')
+-- vim.lsp.enable('gopls')
+-- vim.lsp.enable('pylsp')
 
 vim.api.nvim_create_autocmd('LspAttach', {
     callback = function(ev)
