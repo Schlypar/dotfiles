@@ -3,6 +3,9 @@ require("mason-lspconfig").setup {
         "lua_ls",
         "clangd",
         "gopls",
-        "pylsp",
+        "pyright",
+        "black",
+        "flake",
+        "pylint",
     }
 }

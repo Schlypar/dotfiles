@@ -194,5 +194,28 @@ require("lazy").setup({
             })
         end,
         opts = ...
+    },
+    -- YANDEX
+    {
+        "segoon/goto-arcanum.nvim",
+    },
+    {
+        'segoon/telescope-arcadia-codesearch.nvim',
+    },
+    {
+        'segoon/compile-commands-yamake.nvim',
+    },
+    {
+        'segoon/c35-lsp.nvim',
+    },
+    {
+        'ducks/vimdeck.nvim',
+        cmd = { 'Vimdeck', 'VimdeckFile' },
+        opts = {
+            use_figlet = false,
+            header_style = "dashed",
+            center_vertical = true,
+            center_horizontal = true,
+        }
     }
 })

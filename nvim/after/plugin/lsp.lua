@@ -2,6 +2,9 @@
 -- vim.lsp.enable('luals')
 -- vim.lsp.enable('gopls')
 -- vim.lsp.enable('pylsp')
+vim.lsp.enable('pyright')
+vim.lsp.enable('haskell-language-server')
+vim.lsp.enable('fixjson')
 
 vim.api.nvim_create_autocmd('LspAttach', {
     callback = function(ev)
