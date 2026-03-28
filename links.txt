@@ -1,6 +1,7 @@
 $HOME|assets|
 $HOME/.config|hypr|
 $HOME/.config|kitty|
+$HOME/.config|ghostty|
 $HOME/.config|starship.toml|
 $HOME/.config|nvim|
 $HOME/.config|quickshell|
