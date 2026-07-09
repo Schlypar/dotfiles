@@ -1,0 +1,1358 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/a.yaml"
+  . 937)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml/definitions.yaml"
+  . 45147)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml/api/product.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/experiments3"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml/api/product.yaml"
+  . 3518)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/a.yaml"
+  . 11619)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-catalog-client/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-catalog-client/definitions.yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-catalog-client/definitions.yaml"
+  . 4307)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-crm/libraries/grocery-catalog-client/definitions.yaml"
+  . 2781)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/experiments.py"
+  . 1100)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-crm/grocery_crm_rotating_special_informer_types.yaml"
+  . 389)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/models/informer.cpp"
+  . 34586)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/configs/experiments.cpp"
+  . 28162)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/grocery_crm/test_user_get_catalog_informers_rotating.py"
+  . 334)
+ ("/Users/trumpov/Desktop/magamephi/"
+  (dired-filename . "/Users/trumpov/Desktop/magamephi/09.00.00_1.pdf"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/configs.py"
+  . 544)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg-b2b"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/sql"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/sql/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/sql/get_subscribed_users.sql"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/rotate_informers.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/rotate_informers.cpp"
+  . 870)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/rotate_informers.hpp"
+  . 192)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/configs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/configs/experiments.hpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/configs/experiments.hpp"
+  . 6941)
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-catalog-client/docs/yaml/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-catalog-client/docs/yaml/definitions.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-catalog-client/docs/yaml/definitions.yaml"
+  . 18475)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/promoblock/post/view.cpp"
+  . 7162)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/requests.cpp"
+  . 9796)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/requests.hpp"
+  . 4677)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/experiments3/kwargs_builders/grocery_api_ai_informers.yaml"
+  . 34)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-crm/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-crm/grocery_crm_rotating_special_informer_types.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/internal/user/v1/get-catalog-informers/post/view.cpp"
+  . 1911)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/models/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/models/informer.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/codegen-module.yaml"
+  . 6496)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/test_service.py"
+  . 120)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-api/grocery_api_ai_informers_per_day.yaml"
+  . 434)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/ai_informers.hpp"
+  . 103)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_user_data"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/experiments3/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/experiments3/kwargs_builders"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/experiments3.hpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/experiments3.hpp"
+  . 2628)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/upsale/cart_additions.cpp"
+  . 198)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/experiments3/kwargs_builders/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/experiments3/kwargs_builders/grocery_api_ai_informers.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers/ai_informers.cpp"
+  . 178)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/products_media_postprocess.cpp"
+  . 1187)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/products_media_postprocess.hpp"
+  . 8327)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/modes_context.cpp"
+  . 1798)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/prototype/handler_processor.hpp"
+  . 40524)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/search/search_response.cpp"
+  . 97036)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale/media-feed/post/view.cpp"
+  . 54209)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/modes/category/post/view.cpp"
+  . 3320)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/modes_category_response.cpp"
+  . 18302)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v3/search/post/view.cpp"
+  . 1669)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_user_data/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_user_data/tags.hpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_user_data/tags.hpp"
+  . 772)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_user_data/tags.cpp"
+  . 983)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/ai_informers.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/informers.hpp"
+  . 14)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/ai_informers.cpp"
+  . 358)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/informers.cpp"
+  . 216)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml/api"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/stq/tasks/grocery_crm_product_availability_changed.cpp"
+  . 1125)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-crm-shared/definitions/informer_settings.yaml"
+  . 3586)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/catalog_informers.cpp"
+  . 3189)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/catalog_informers.hpp"
+  . 843)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/crm_converters.hpp"
+  . 1067)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/crm_converters.cpp"
+  . 445)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/sql/get_notification_and_user_info.sql"
+  . 1493)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/sql/insert_informer.sql"
+  . 551)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/sql/insert_subscription.sql"
+  . 628)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/grocery_api/test_informers_ai_daily_limit.py"
+  . 1374)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/modes_category_response.hpp"
+  . 1281)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/filtered_informers.hpp"
+  . 766)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/filtered_informers.cpp"
+  . 1285)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/upsale/cart/post/view.cpp"
+  . 4168)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/upsale/recommended_items.cpp"
+  . 2709)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/upsale/recommended_items.hpp"
+  . 2268)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/models/informer.hpp"
+  . 4712)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/models/published_informers_index.cpp"
+  . 5375)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-fav-goods/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-fav-goods/api"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/a.yaml"
+  . 809)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/.projectile"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-adv-shared"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/grocery_api"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/grocery_api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/grocery_api/test_informers_ai_daily_limit.py"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-user-data/api/internal.yaml"
+  . 3777)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-user-data/api/retrieve.yaml"
+  . 6231)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-user-data/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-user-data/api/.."))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-user-data/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-user-data/definitions.yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-user-data/definitions.yaml"
+  . 11008)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-rovers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-rovers/src"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-rovers/src/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-rovers/src/components.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-rovers/src/views/api/routes/check_availability/post/view.cpp"
+  . 1410)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/definitions.yaml"
+  . 16551)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/api/retrieve.yaml"
+  . 7954)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/api/internal.yaml"
+  . 3730)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/src/views/internal/user-data/v1/tags/retrieve/post/view.cpp"
+  . 2396)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/src/views/lavka/v1/user-data/v1/retrieve/post/view.cpp"
+  . 2292)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/testsuite/tests_grocery_user_data/test_internal_retrieve.py"
+  . 3952)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/testsuite/tests_grocery_user_data/test_store.py"
+  . 25212)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/api"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/api/retrieve.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/experiments3/kwargs_builders/grocery_api_pfc.yaml"
+  . 137)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-api/grocery_api_ai_search_settings.yaml"
+  . 404)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-api/grocery_api_ai_informers_per_day.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/navigation/layout_hubs.cpp"
+  . 696)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/navigation/layout_hubs.hpp"
+  . 469)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers/signal_settings.hpp"
+  . 336)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/components/custom_special_categories.cpp"
+  . 3198)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/components/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/components/custom_special_categories.hpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers/ai_informers.hpp"
+  . 526)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers/rover_informers.cpp"
+  . 687)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers/signal_settings.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/informers/signal_settings.cpp"
+  . 620)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services"))
+ ("/Users/trumpov/arcadia/taxi/schemas/"
+  (dired-filename . "/Users/trumpov/arcadia/taxi/schemas/schemas"))
+ ("/Users/trumpov/arcadia/taxi/"
+  (dired-filename . "/Users/trumpov/arcadia/taxi/rust"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/gen"))
+ ("/Users/trumpov/arcadia/taxi/uservices/gen/clients/grocery-user-data/"
+  . 3)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/navigation/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/navigation/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/product-tinder/post/view.cpp"
+  . 2984)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_tags/user_tags.cpp"
+  . 2121)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/crm/settings.cpp"
+  . 813)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-crm-shared/definitions/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-crm-shared/definitions/.."))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-crm-shared/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-crm-shared/definitions.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informer_validator.cpp"
+  . 7973)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/prototype/response_generator.hpp"
+  . 1069)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-crm-shared/definitions.yaml"
+  . 3244)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/src/views/internal/user-data/v1/tags/store/post/view.cpp"
+  . 681)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/src/helpers/store.cpp"
+  . 5932)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/testsuite/tests_grocery_user_data/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/testsuite/tests_grocery_user_data/test_store.py"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/testsuite/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/testsuite/tests_grocery_user_data"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/pkg/testsuite"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/src/models/user_tags.cpp"
+  . 4472)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/utils/ml_filters.cpp"
+  . 191)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/products_assembler.hpp"
+  . 1007)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/prototype/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/prototype/response_generator.hpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/informers/discount_informers.hpp"
+  . 1031)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/docs/yaml/api/store.yaml"
+  . 861)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/postgresql/grocery_user_data/migrations/V045__add_ai_informer_view_tag.sql"
+  . 106)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/postgresql/grocery_user_data/migrations/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/postgresql/grocery_user_data/migrations/V045__add_ai_informer_view_tag.sql"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-user-data/src/helpers/converters.cpp"
+  . 3881)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/grocery_crm/test_surge_changed_discount_modifiers.py"
+  . 6587)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/grocery_crm/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/grocery_crm/test_surge_changed_discount_modifiers.py"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/grocery_crm"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/tests/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/tests/usrv_build.json"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/testsuite/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/testsuite/ya.make"))
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/yaml/definitions/informer_settings.yaml"
+  . 21853)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/grocery-crm-shared"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/grocery-crm-shared/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/grocery-crm-shared/definitions"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/grocery-crm-shared/definitions/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/grocery-crm-shared/definitions/informer_settings.yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/grocery-crm-shared/definitions/informer_settings.yaml"
+  . 19293)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/grocery-crm-shared"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/grocery-crm-shared/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/grocery-crm-shared/definitions"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/grocery-crm-shared/definitions/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/grocery-crm-shared/definitions/informer_settings.yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/grocery-crm-shared/definitions/informer_settings.yaml"
+  . 15339)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/experiments3/kwargs_builders/grocery_search_products_blacklist.yaml"
+  . 105)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-dj/a.yaml"
+  . 477)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-dj/src/lib/dj_result.cpp"
+  . 909)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-dj/src/lib/media.cpp"
+  . 21620)
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/yaml/definitions.yaml"
+  . 11236)
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/yaml/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/yaml/definitions"))
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/yaml/definitions/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/yaml/definitions/informer_settings.yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/libraries/grocery-crm-shared/definitions.yaml"
+  . 1119)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-dj/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-dj/.projectile"))
+ ("/Applications/Emacs.app/Contents/MacOS/"
+  (dired-filename . "/Applications/Emacs.app/Contents/MacOS/Emacs"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/pkg-grocery-api/uplatform/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/pkg-grocery-api/uplatform/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/pkg-grocery-api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/pkg-grocery-api/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/.pi/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/.pi/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/src/components/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/src/components/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/src/external/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/src/external/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/src/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/src/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/artifacts/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/artifacts/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-adv/" . 1761)
+ ("/Users/trumpov/arcadia/taxi/uservices/"
+  (dired-filename . "/Users/trumpov/arcadia/taxi/uservices/libraries"))
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared"))
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs"))
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-crm-shared/docs/yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-dj/definitions.yaml"
+  . 15594)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-search/libraries/grocery-crm-shared/definitions.yaml"
+  . 5374)
+ ("/Users/trumpov/"
+  (dired-filename . "/Users/trumpov/.coding_agent_token"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/upsale/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/upsale/recommended_items.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale/media-feed/post/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale/media-feed/post/view.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale/media-feed/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale/media-feed/post"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale/media-feed"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/upsale"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/grpc/a2a/A2AService/SendMessage.cpp"
+  . 1910)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/grpc/a2a/A2AService/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/grpc/a2a/A2AService/CancelTask.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/grpc/a2a/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/grpc/a2a/A2AService"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/grpc/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/grpc/a2a"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/resources/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/resources/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/src/external/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/src/external/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-search/src/"
+  . 1196)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/grocery_crm/test_get_informer_by_id.py"
+  . 25066)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/consts.py"
+  . 4644)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/pkg/testsuite/tests_grocery_crm/grocery_crm/test_admin_get_informer.py"
+  . 3463)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/models/published_informers.cpp"
+  . 52094)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/uplatform/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/uplatform/clownductor_service_info.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/uplatform/clownductor_service_info.yaml"
+  . 8147)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/service.yaml"
+  . 885)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/definitions.yaml"
+  . 608)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/api/admin-api.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/api/admin-api.yaml"
+  . 77284)
+ ("/Users/trumpov/Desktop/diplom/README.md" . 1558)
+ ("/Users/trumpov/Desktop/diplom/chapters/biblio.bib" . 26)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-conclusion.tex"
+  . 541)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-intro.tex"
+  . 1114)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-chapter1.tex"
+  . 4304)
+ ("/Users/trumpov/Desktop/diplom/otzyv.txt" . 683)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/assistant.cpp"
+  . 14387)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/assistant.hpp"
+  . 1043)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/prototype/response_generator.cpp"
+  . 155)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/helper/chat/post/view.cpp"
+  . 4043)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_retail/retail.cpp"
+  . 4985)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/docs/yaml/api/upsale.yaml"
+  . 24982)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/retail.cpp"
+  . 11390)
+ ("/Users/trumpov/arcadia/junk/trumpov/disable_exp_logs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/junk/trumpov/disable_exp_logs/test.json"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/product_data.cpp"
+  . 32891)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/product/post/view.cpp"
+  . 25497)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/publish_settings.cpp"
+  . 958)
+ ("/Users/trumpov/Desktop/diplom/thesis-template-3-pz.tex" . 2510)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-chapter2.tex"
+  . 26625)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-chapter3.tex"
+  . 17016)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-appendix1.tex"
+  . 15596)
+ ("/Users/trumpov/Desktop/diplom/chapters/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/diplom/chapters/thesis-template-appendix2.tex"))
+ ("/Users/trumpov/Desktop/diplom/"
+  (dired-filename . "/Users/trumpov/Desktop/diplom/chapters"))
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-appendix2.tex"
+  . 55)
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-experiments-factory/include/grocery-experiments-factory/helpers/experiment_settings.hpp"
+  . 1361)
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-experiments-factory/include/grocery-experiments-factory/helpers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-experiments-factory/include/grocery-experiments-factory/helpers/experiment_settings.hpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/validation.cpp"
+  . 25245)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/helpers/publish_settings.hpp"
+  . 1127)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/admin/informers/v1/publish/post/view.cpp"
+  . 1304)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/uplatform/clownductor_service_info.yaml"
+  . 2996)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/uplatform/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/uplatform/clownductor_service_info.yaml"))
+ ("/Users/trumpov/arcadia/junk/trumpov/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/junk/trumpov/disable_exp_logs"))
+ ("/Users/trumpov/arcadia/junk/trumpov/disable_exp_logs/lib/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/junk/trumpov/disable_exp_logs/lib/.."))
+ ("/Users/trumpov/arcadia/junk/trumpov/disable_exp_logs/tests/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/junk/trumpov/disable_exp_logs/tests/.."))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/internal/definitions.yaml"
+  . 1703)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/internal/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/internal/definitions.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/docs/yaml/sla"))
+ ("/Users/trumpov/Desktop/student_labs/LAB2/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/LAB2/README.md"))
+ ("/Users/trumpov/Desktop/student_labs/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs/eleanora2"))
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/src/main.cpp" . 147)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/errors.h"
+  . 53)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/Node.h" . 421)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/LinkedList.h"
+  . 2848)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/ListSequence.h"
+  . 2400)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/DynamicArray.h"
+  . 1515)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/ArraySequence.h"
+  . 3637)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/tests.cpp" . 19674)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/BitSequence.h"
+  . 136)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/src/BitSequence.cpp"
+  . 9)
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/src/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/eleanora2/src/.."))
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/eleanora2/include"))
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/eleanora2/include/AdaptiveSequence.h"))
+ ("/Users/trumpov/Desktop/student_labs/eleanora2/include/AdaptiveSequence.h"
+  . 266)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/test_favorites_list.py"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/test_favorites_list.py"
+  . 962)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/list/post/view.cpp"
+  . 306)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/list/post/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/list/post/view.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/helpers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/configs"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/shared_kwargs/depot.yaml"
+  . 329)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/shared_kwargs/auth_context.yaml"
+  . 592)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/shared_kwargs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/configs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/configs/grocery_fav_goods_disable_product_analogs_populating.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/kwargs_builders/grocery_fav_goods_list.yaml"
+  . 249)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/kwargs_builders/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/kwargs_builders/grocery_fav_goods_list.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/experiments3/kwargs_builders"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/codegen-module.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/codegen-module.yaml"
+  . 2723)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/configs/grocery_fav_goods_disable_product_analogs_populating.cpp"
+  . 299)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_catalogue_and_order_cycle/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_catalogue_and_order_cycle/test_grocery_crm_informers_counter.py"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_catalogue_and_order_cycle"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/"
+  (dired-filename . "/Users/trumpov/arcadia/taxi/lavka/check/testflow"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/testflow/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/testflow/flows"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/testflow/flows/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/testflow/flows/api_flow.py"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/testflow/flows/api_flow.py"
+  . 5077)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-fav-goods/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-fav-goods/grocery_fav_goods_disable_product_analogs_populating.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/ci/codegen-module.yaml"
+  . 683)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/ci/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/ci/codegen-module.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/experiments.py"
+  . 1179)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_catalogue_and_order_cycle/helpers.py"
+  . 592)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/plugins/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/system_tests/plugins/dependencies.py"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/testflow/wl_client_backends/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/testflow/wl_client_backends/clients"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/testflow/wl_client_backends/clients/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/testflow/wl_client_backends/clients/grocery_crm.py"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/list/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/list/post"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/list"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/views/internal/v1/favorites/list/post/view.hpp"
+  . 230)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/models/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/models/favorites.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/models/favorites.cpp"
+  . 4585)
+ ("/Users/trumpov/arcadia/"
+  (dired-filename . "/Users/trumpov/arcadia/taxi"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/test_internal_recent_goods_get.py"
+  . 2946)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/README.md" . 1120)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/FileStream/FileReadOnlyStream.h"
+  . 1316)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/FileStream/FileWriteOnlyStream.h"
+  . 402)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/FileStream/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs/yasteb4"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/TransfiniteNumbers/Cardinal.h"
+  . 294)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/TransfiniteNumbers/Ordinal.h"
+  . 1873)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/TransfiniteNumbers/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs/yasteb4"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/LazySequence/Generator.h"
+  . 8565)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/LazySequence/LazySequence.h"
+  . 12865)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/LazySequence/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs/yasteb4"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/SequenceStream/SequenceReadOnlyStream.h"
+  . 1552)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/SequenceStream/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/yasteb4/SequenceStream/SequenceWriteOnlyStream.h"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/SequenceStream/SequenceWriteOnlyStream.h"
+  . 270)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/Stream/WriteOnlyStream.h"
+  . 102)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/Stream/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs/yasteb4"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/StateMachine/TurnstileStateMachine.h"
+  . 799)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/Stream/ReadOnlyStream.h"
+  . 225)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/StateMachine/MachineRunner.h"
+  . 3107)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/StateMachine/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs/yasteb4"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs/yasteb4/menu"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/menu/LazyMenuTraits.h"
+  . 1614)
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/menu/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/yasteb4/menu/menu_lazy.hpp"))
+ ("/Users/trumpov/Desktop/student_labs/yasteb4/menu/menu_lazy.hpp"
+  . 5030)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/test_internal_recent_goods_add.py"
+  . 12255)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/test_set_favorites.py"
+  . 104)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-fav-goods/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-fav-goods"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/pkg/testsuite/tests_grocery_fav_goods/grocery_fav_goods/test_favorites_selected.py"
+  . 2186)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/cargo-grocery-api/cargo_grocery_api_geocoder_settings.yaml"
+  . 1121)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/cargo-grocery-api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/cargo-grocery-api/cargo_grocery_api_geocoder_settings.yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/configs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/configs/declarations"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/configs/declarations/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/configs/declarations/grocery-fav-goods"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/configs/declarations/grocery-fav-goods/GROCERY_FAV_GOODS_MAX_RECENT_GOODS.yaml"
+  . 204)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/configs/declarations/grocery-fav-goods/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/configs/declarations/grocery-fav-goods/GROCERY_FAV_GOODS_PG.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-shared/include/grocery-shared/auth_context.hpp"
+  . 2445)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/src/utils/auth_context.hpp"
+  . 297)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/experiments3/declarations/grocery-fav-goods"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/gen/run-codegen/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/gen"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/gen/tests_linters/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/gen"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/gen/tests_update/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/gen"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/gen/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/service.yaml"
+  . 816)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_catalogue_and_order_cycle/test_catalog.py"
+  . 1153)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_catalogue_and_order_cycle/consts.py"
+  . 146)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/product_info.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/product_info.hpp"
+  . 6035)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/2026-06-04/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/INDEX-README.md"
+  . 3263)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/wiki"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/product_info.cpp"
+  . 25481)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/grocery_api/tests_product_analogs/test_expiration_date.py"
+  . 16344)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/components/sampling_campaigns_special_categories.cpp"
+  . 4555)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/subcategory.cpp"
+  . 124)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/layout.cpp"
+  . 8850)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/special_category.hpp"
+  . 290)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/grocery-api.md"
+  . 12)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/models/special_category/special_category.cpp"
+  . 21358)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/vertical_layouts.cpp"
+  . 2216)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v1/user/favorites/post/view.cpp"
+  . 1224)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/catalog_processor.cpp"
+  . 3704)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/special_category.cpp"
+  . 2697)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/features/show_available_analogs.cpp"
+  . 893)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/products_assembler.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/products_assembler.cpp"
+  . 17019)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/analogs.cpp"
+  . 11224)
+ ("/Users/trumpov/.ya/build/symres/f0aa8f19f706c3784b3442f47137236d/taxi/uservices/gen/clients/grocery-fav-goods/src/clients/grocery-fav-goods/client.hpp"
+  . 5125)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/yaml/api/api.yaml"
+  . 126)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/yaml/api/favorites.yaml"
+  . 1328)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/yaml/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/yaml/api/favorites.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/yaml/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/yaml/api"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-fav-goods/docs/yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/external/grocery_fav_goods/fav_goods.cpp"
+  . 2537)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/wiki/Module_495.md"
+  . 990)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/wiki/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/wiki/index.md"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/graphify-out/wiki/index.md"
+  . 13501)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/combo_product.cpp"
+  . 26421)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/category.cpp"
+  . 10224)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/catalog_processor_utils.hpp"
+  . 2650)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/grocery_mode.cpp"
+  . 21272)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/recipes.cpp"
+  . 2534)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/grocery_mode.hpp"
+  . 2334)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/features/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/configs/features/tabbar.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/item_builder.hpp"
+  . 32125)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/products/response_product.cpp"
+  . 4981)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/definitions.yaml"
+  . 46819)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/attributes.yaml"
+  . 174)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/category-group.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/errors-config.yaml"
+  . 395)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/fallback-services.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/helper.yaml"
+  . 174)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/modes.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/offer-shown.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/parcels.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/product-list.yaml"
+  . 174)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/regional-experiments.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/search.yaml"
+  . 462)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/service-info.yaml"
+  . 174)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/startup.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/user-profile.yaml"
+  . 248)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/virtual-categories-availability.yaml"
+  . 413)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/api/virtual-categories-availability.yaml"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-adv-shared/definitions.yaml"
+  . 11)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-adv-shared/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-catalog-shared/definitions.yaml"
+  . 11)
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-catalog-shared/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries"))
+ ("/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-shared/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/schemas/schemas/services/grocery-api/libraries/grocery-shared/definitions.yaml"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/adv.hpp"
+  . 5291)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/testsuite/tests_grocery_api/grocery_api/tests_product/test_product.py"
+  . 136129)
+ ("/Users/trumpov/.zshrc" . 40)
+ ("/Users/trumpov/Downloads/"
+  (dired-filename
+   . "/Users/trumpov/Downloads/mace_system_components_dense.puml"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/testflow/wl_client_backends/clients/grocery_api.py"
+  . 1670)
+ ("/Users/trumpov/arcadia/taxi/uservices/libraries/grocery-catalog-client/include/grocery-catalog-client/analogs.hpp"
+  . 1011)
+ ("/Users/trumpov/dotfiles/link.sh" . 2)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/modes/category/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/modes/category/post"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/modes/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/modes/category"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/modes"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/views/lavka/v1/api/v2/modes/category/post/"
+  . 62)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/tasklets/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/tasklets/e2e_test_tasklet"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/plugins/dependencies.py"
+  . 2477)
+ ("/Users/trumpov/.arcignore" . 92)
+ ("/Users/trumpov/arcadia/taxi/lavka/"
+  (dired-filename . "/Users/trumpov/arcadia/taxi/lavka/check"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/internal/user/v1/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/internal/user"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/internal/user/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/internal"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/internal/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/admin/informers/v1/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/admin/informers"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/admin/informers/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/admin"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/admin/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/v1/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/v1/informer-shown"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/v1/informer-shown/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/v1/informer-shown/post"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/v1/informer-shown/post/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/v1/informer-shown/post/view.cpp"))
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-api/src/helpers/retail.hpp"
+  . 829)
+ ("/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/uservices/services/grocery-crm/src/views/lavka/v1/crm/v1"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_integrations/test_retail.py"
+  . 15632)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_integrations/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_integrations/test_retail.py"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/grocery_backend_core_team/test_users_auth_b2b.py"
+  . 88)
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/grocery_backend_core_team/"
+  (dired-filename
+   . "/Users/trumpov/arcadia/taxi/lavka/check/system_tests/grocery_backend_core_team/ya.make"))
+ ("/Users/trumpov/arcadia/taxi/lavka/check/system_tests/lavka_catalogue_and_order_cycle/ya.make"
+  . 133)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/README.md"
+  . 1690)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/.vscode/c_cpp_properties.json"
+  . 21)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/.vscode/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics"))
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/output/latest_stats_summary.json"
+  . 301)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/data/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics"))
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/output/stream_dump.txt"
+  . 10)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/output/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics"))
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/BinaryHeap.hpp"
+  . 120)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/BinaryHeap.tpp"
+  . 1927)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/Cardinal.hpp"
+  . 1266)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/Cardinal.tpp"
+  . 2649)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/LazySequence.hpp"
+  . 2588)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/LazySequence.tpp"
+  . 22596)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/MapIndexed.hpp"
+  . 84)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/src/main.cpp"
+  . 1965)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/Streams.hpp"
+  . 207)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/TextFileIO.hpp"
+  . 429)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/TextFileIO.tpp"
+  . 2343)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/OnlineStatistics.hpp"
+  . 1140)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/Streams.tpp"
+  . 707)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/OnlineStatistics.tpp"
+  . 1232)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/src/tests.cpp"
+  . 20585)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/src/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics"))
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/include/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics"))
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/code.txt"
+  . 22934)
+ ("/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/lab_4_Collecting_statistics/code.txt"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/CMakeLists.txt"
+  . 180)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/Queue.hpp"
+  . 846)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/ArrayQueue.hpp"
+  . 311)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/ImmutableArraySequence.hpp"
+  . 279)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/Stream.hpp"
+  . 1876)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/Stack.hpp"
+  . 4024)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/Cardinal.hpp"
+  . 516)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/LazySequence.hpp"
+  . 6310)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/CircularBufferQueue.hpp"
+  . 1592)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/include/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/src"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/src/main.cpp"
+  . 5)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/src/console_runner.cpp"
+  . 2041)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/src/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/src/benchmark.cpp"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_4/src/benchmark.cpp"
+  . 2165)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-chapter4.tex"
+  . 401)
+ ("/Users/trumpov/.yandex_oauth" . 54)
+ ("/Users/trumpov/Desktop/diplom/chapters/thesis-template-abstract.tex"
+  . 3230)
+ ("/Users/trumpov/Desktop/BasicDefinitions/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/BasicDefinitions/ГОСТ 19.701-90.pdf"))
+ ("/Users/trumpov/Desktop/"
+  (dired-filename . "/Users/trumpov/Desktop/diplom"))
+ ("/Users/trumpov/Desktop/diplom/chapters/_content.tex" . 2099)
+ ("/Users/trumpov/dotfiles/emacs/init.el" . 5352)
+ ("/Users/trumpov/dotfiles/emacs/after/arcer.el" . 497)
+ ("/Users/trumpov/Desktop/diplom/title/"
+  (dired-filename . "/Users/trumpov/Desktop/diplom"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/include/CircularBufferQueue.hpp"
+  . 1330)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/include/Stack.hpp"
+  . 3305)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/include/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/src/queue_benchmark.cpp"
+  . 2068)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/src/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/ui"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/ui/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/ui/gtk_main.cpp"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/ui/gtk_main.cpp"
+  . 109)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/include/Sequence.hpp"
+  . 1313)
+ ("/Users/trumpov/Desktop/diplom/style_guideline.md" . 96)
+ ("/Users/trumpov/Desktop/diplom/system_prompt.md" . 817)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/include/ArraySequence.hpp"
+  . 872)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/include/ImmutableArraySequence.hpp"
+  . 62)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/include/BitSequence.hpp"
+  . 1625)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/src/console_runner.cpp"
+  . 490)
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/tests/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/tests/queue_tests.cpp"))
+ ("/Users/trumpov/Desktop/student_labs/tigriniy_vypad_3/tests/queue_tests.cpp"
+  . 1344)
+ ("/Users/trumpov/Desktop/diplom/FEDYA1/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/diplom/FEDYA1/uir_pz_template-main"))
+ ("/Users/trumpov/dotfiles/"
+  (dired-filename . "/Users/trumpov/dotfiles/link.sh"))
+ ("/Users/trumpov/.emacs.d/elpa/markdown-mode-20260321.143/markdown-mode.el"
+  . 84708)
+ ("/Users/trumpov/.ya/build/symres/2abf59945a103b223894df9c51072dd6/build/services/grocery-api/src/defs/definitions.hpp"
+  . 184910)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/Boolean.h" . 781)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/array_sequence/ArraySequence.h"
+  . 1659)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/array_sequence/MutableArraySequence.h"
+  . 911)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/array_sequence/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/sequence-array"))
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/build/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/sequence-array"))
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/containers/Deque.h"
+  . 1827)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/containers/Queue.h"
+  . 564)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/containers/stack.h"
+  . 528)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/containers/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/sequence-array"))
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/core/DynamicArray.h"
+  . 558)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/core/LinkedList.h"
+  . 236)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/core/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/sequence-array"))
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/list_sequence/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/sequence-array"))
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/info" . 19)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/main.cpp" . 1814)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/sequence-array/Sequence.h"))
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/Sequence.h"
+  . 1511)
+ ("/Users/trumpov/dotfiles/emacs/"
+  (dired-filename . "/Users/trumpov/dotfiles/emacs/tramp"))
+ ("/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/copy.py"
+  . 3556)
+ ("/Users/trumpov/Desktop/student_labs/packet/TestTypes.h" . 1615)
+ ("/Users/trumpov/Desktop/student_labs/packet/"
+  (dired-filename . "/Users/trumpov/Desktop/student_labs"))
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/CMakeLists.txt"
+  . 159)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/demo.cpp" . 638)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/stack_tests.cpp"
+  . 10194)
+ ("/Users/trumpov/Desktop/student_labs/packet/main.cpp" . 314)
+ ("/Users/trumpov/Desktop/functional-programming-notes/lesson5/Main.hs"
+  . 1355)
+ ("/Users/trumpov/dotfiles/emacs/after/treesitter.el" . 2403)
+ ("/Users/trumpov/dotfiles/emacs/after/language-servers.el" . 3431)
+ ("/Users/trumpov/Desktop/functional-programming-notes/lesson2/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/functional-programming-notes"))
+ ("/Users/trumpov/Desktop/functional-programming-notes/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/functional-programming-notes/lesson5"))
+ ("/Users/trumpov/Desktop/functional-programming-notes/lesson5/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/functional-programming-notes/lesson5/Main.hs"))
+ ("/Users/trumpov/Desktop/fizika/venv/lib/python3.12/site-packages/pylab.py"
+  . 111)
+ ("/Users/trumpov/.ya/build/symres/2abf59945a103b223894df9c51072dd6/build/services/grocery-api/include/experiments3/grocery_api_pfc_settings.hpp"
+  . 3208)
+ ("/Users/trumpov/Desktop/student_labs/Polymorphic-collection/CMakeLists.txt"
+  . 1104)
+ ("/Users/trumpov/Desktop/student_labs/Polymorphic-collection/server/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/Polymorphic-collection"))
+ ("/Users/trumpov/Desktop/student_labs/Polymorphic-collection/src/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/Polymorphic-collection"))
+ ("/Users/trumpov/Desktop/student_labs/Polymorphic-collection/README.md"
+  . 2621)
+ ("/Users/trumpov/Desktop/student_labs/Polymorphic-collection/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/Polymorphic-collection/Dockerfile"))
+ ("/Users/trumpov/Desktop/student_labs/Polymorphic-collection/Dockerfile"
+  . 197)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/labs-info/README.md"))
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_1/REPORT.md"
+  . 1204)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_1/algebra.h"
+  . 980)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_1/algebra.c"
+  . 1334)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_1/matrix.c"
+  . 1007)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_1/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/labs-info/lab_1/matrix.c"))
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/Makefile" . 49)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/linked_list.tpp"
+  . 2872)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/dynamic_array.tpp"
+  . 746)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/icollection.h"
+  . 60)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/sequence.h"
+  . 194)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/array_sequence.h"
+  . 1437)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/map_reduce.h"
+  . 644)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/map_reduce.tpp"
+  . 1455)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/main.cpp" . 117)
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_2/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/labs-info/lab_2/main.cpp"))
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_3/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/labs-info/lab_3/from_lab_2"))
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_3/from_lab_2/"
+  (dired-filename
+   . "/Users/trumpov/Desktop/student_labs/labs-info/lab_3/from_lab_2/iterators.h"))
+ ("/Users/trumpov/Desktop/student_labs/labs-info/lab_3/from_lab_2/iterators.h"
+  . 1005)
+ ("/Users/trumpov/Desktop/student_labs/sequence-array/tests.cpp"
+  . 9527))

@@ -1,1 +1,9 @@
 tmux/plugins
+undo
+~undo-tree~
+emacs/elpa
+*.md
+*.cache
+osx
+emacs/auto-save-list
+*.dylib

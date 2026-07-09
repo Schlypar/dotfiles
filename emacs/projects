@@ -1,0 +1,5 @@
+;;; -*- lisp-data -*-
+(("/Users/trumpov/dotfiles/")
+ ("/Users/trumpov/dotfiles/emacs/elpa/agent-shell-manager/")
+ ("/Users/trumpov/dotfiles/emacs/elpa/agent-shell-workspace/")
+ ("/Users/trumpov/arcadia/taxi/backend-go/techplatform/services/service-graph/"))

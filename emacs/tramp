@@ -1,0 +1,135 @@
+;; -*- emacs-lisp -*- <26/07/09 16:10:29 ~/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; Run `M-x tramp-cleanup-all-connections' instead.
+
+(((tramp-file-name "cache" nil nil nil nil nil nil)
+  ("tramp-version" "2.7.3.30.2"))
+ ((tramp-file-name "ssh" "trumpov" nil
+                   "haf93b51660f54ee4adfec380e976.sas.yp-c.yandex.net"
+                   nil nil nil)
+  ("null-device" "/dev/null") ("uname" "Linux 5.15.0-143-generic")
+  ("locale" "LC_ALL=en_US.utf8") ("test" "test")
+  ("file-exists" "test -e")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin"
+    "/usr/local/sbin"))
+  ("pipe-buf" 4096) ("remote-shell" "/bin/sh") ("~" "/home/trumpov")
+  ("stat" "env QUOTING_STYLE=locale \\stat") ("id" "/bin/id")
+  ("uid-integer" 199) ("uid-string" "trumpov") ("gid-integer" 0)
+  ("gid-string" "root") ("groups-integer" (0 999))
+  ("groups-string" ("root" "docker")) ("perl-file-spec" t)
+  ("perl-cwd-realpath" t) ("perl" "\\perl") ("case-insensitive" nil)
+  ("readlink" "\\readlink") ("ls" "/bin/ls --color=never")
+  ("ls--dired" "--dired")
+  ("ls--quoting-style=literal --show-control-chars"
+   "--quoting-style=literal --show-control-chars")
+  ("df-blocksize" 1)
+  ("df" "\\df --block-size=1 --output=size,used,avail") ("bzr" nil)
+  ("git" "\\git") ("hg" nil) ("mknod-or-mkfifo" "mknod %s p"))
+ ((tramp-file-name "ssh" "trumpov" nil
+                   "h2e0b253726024a058f2a06bef842.sas.yp-c.yandex.net"
+                   nil nil nil)
+  ("null-device" "/dev/null") ("uname" "Linux 5.15.0-143-generic")
+  ("locale" "LC_ALL=en_US.utf8") ("test" "test")
+  ("file-exists" "test -e") ("pipe-buf" 4096)
+  ("remote-shell" "/bin/sh") ("~" "/home/trumpov")
+  ("readlink" "\\readlink") ("stat" "env QUOTING_STYLE=locale \\stat")
+  ("id" "/usr/bin/id") ("uid-integer" 199) ("uid-string" "trumpov")
+  ("gid-integer" 0) ("gid-string" "root") ("groups-integer" (0 999))
+  ("groups-string" ("root" "docker"))
+  ("ls" "/usr/bin/ls --color=never") ("ls--dired" "--dired")
+  ("ls--quoting-style=literal --show-control-chars"
+   "--quoting-style=literal --show-control-chars")
+  ("df-blocksize" 1)
+  ("df" "\\df --block-size=1 --output=size,used,avail")
+  ("case-insensitive" nil) ("bzr" nil) ("git" "\\git") ("hg" nil)
+  ("mknod-or-mkfifo" "mknod %s p") ("perl-file-spec" t)
+  ("perl-cwd-realpath" t) ("perl" "\\perl"))
+ ((tramp-file-name "ssh" "trumpov" nil
+                   "hee35eae1aba84158958aebc8286d.sas.yp-c.yandex.net"
+                   nil nil nil)
+  ("null-device" "/dev/null") ("uname" "Linux 5.15.0-143-generic")
+  ("locale" "LC_ALL=en_US.utf8") ("test" "test")
+  ("file-exists" "test -e")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin"
+    "/usr/local/sbin"))
+  ("pipe-buf" 4096) ("remote-shell" "/bin/sh") ("~" "/home/trumpov")
+  ("stat" "env QUOTING_STYLE=locale \\stat") ("id" "/bin/id")
+  ("uid-integer" 199) ("uid-string" "trumpov") ("gid-integer" 0)
+  ("gid-string" "root") ("groups-integer" (0 999))
+  ("groups-string" ("root" "docker")) ("case-insensitive" nil)
+  ("readlink" "\\readlink") ("perl-file-spec" t)
+  ("perl-cwd-realpath" t) ("perl" "\\perl")
+  ("ls" "/bin/ls --color=never") ("ls--dired" "--dired")
+  ("ls--quoting-style=literal --show-control-chars"
+   "--quoting-style=literal --show-control-chars")
+  ("df-blocksize" 1)
+  ("df" "\\df --block-size=1 --output=size,used,avail"))
+ ((tramp-file-name "ssh" "trumpov" nil
+                   "v07148d6cf4e44cbaa8632715f40f.vla.yp-c.yandex.net"
+                   nil nil nil)
+  ("null-device" "/dev/null") ("uname" "Linux 5.15.0-143-generic")
+  ("locale" "LC_ALL=en_US.utf8") ("test" "test")
+  ("file-exists" "test -e") ("pipe-buf" 4096)
+  ("remote-shell" "/bin/sh") ("readlink" "\\readlink")
+  ("stat" "env QUOTING_STYLE=locale \\stat") ("id" "/usr/bin/id")
+  ("uid-integer" 199) ("uid-string" "trumpov") ("gid-integer" 0)
+  ("gid-string" "root") ("groups-integer" (0 999))
+  ("groups-string" ("root" "docker"))
+  ("ls" "/usr/bin/ls --color=never") ("ls--dired" "--dired")
+  ("ls--quoting-style=literal --show-control-chars"
+   "--quoting-style=literal --show-control-chars")
+  ("df-blocksize" 1)
+  ("df" "\\df --block-size=1 --output=size,used,avail")
+  ("case-insensitive" nil) ("~" "/home/trumpov") ("perl-file-spec" t)
+  ("perl-cwd-realpath" t) ("perl" "\\perl"))
+ ((tramp-file-name "ssh" "trumpov" nil
+                   "h61630594b9ce493a807db68f5f64.sas.yp-c.yandex.net"
+                   nil nil nil)
+  ("null-device" "/dev/null") ("uname" "Linux 5.15.0-143-generic")
+  ("locale" "LC_ALL=en_US.utf8") ("test" "test")
+  ("file-exists" "test -e") ("pipe-buf" 4096)
+  ("remote-shell" "/bin/sh") ("~" "/home/trumpov")
+  ("stat" "env QUOTING_STYLE=locale \\stat") ("id" "/usr/bin/id")
+  ("uid-integer" 199) ("uid-string" "trumpov") ("gid-integer" 0)
+  ("gid-string" "root") ("groups-integer" (0 999))
+  ("groups-string" ("root" "docker")) ("case-insensitive" nil)
+  ("readlink" "\\readlink") ("perl-file-spec" t)
+  ("perl-cwd-realpath" t) ("perl" "\\perl")
+  ("ls" "/usr/bin/ls --color=never") ("ls--dired" "--dired")
+  ("ls--quoting-style=literal --show-control-chars"
+   "--quoting-style=literal --show-control-chars")
+  ("df-blocksize" 1)
+  ("df" "\\df --block-size=1 --output=size,used,avail") ("bzr" nil)
+  ("git" "\\git") ("hg" nil))
+ ((tramp-file-name "ssh" "trumpov" nil
+                   "v352406e7d92149768f2663970918.vla.yp-c.yandex.net"
+                   nil nil nil)
+  ("null-device" "/dev/null") ("uname" "Linux 5.15.0-143-generic")
+  ("locale" "LC_ALL=en_US.utf8") ("test" "test")
+  ("file-exists" "test -e") ("pipe-buf" 4096)
+  ("remote-shell" "/bin/sh") ("~" "/home/trumpov")
+  ("stat" "env QUOTING_STYLE=locale \\stat") ("id" "/usr/bin/id")
+  ("uid-integer" 199) ("uid-string" "trumpov") ("gid-integer" 0)
+  ("gid-string" "root") ("groups-integer" (0 999))
+  ("groups-string" ("root" "docker")) ("case-insensitive" nil)
+  ("readlink" "\\readlink") ("perl-file-spec" t)
+  ("perl-cwd-realpath" t) ("perl" "\\perl")
+  ("ls" "/usr/bin/ls --color=never") ("ls--dired" "--dired")
+  ("ls--quoting-style=literal --show-control-chars"
+   "--quoting-style=literal --show-control-chars")
+  ("df-blocksize" 1)
+  ("df" "\\df --block-size=1 --output=size,used,avail"))
+ ((tramp-file-name "ssh" "trumpov" nil
+                   "k2f5903fbb9fb431e9e416af4e015.klg.yp-c.yandex.net"
+                   nil nil nil)
+  ("null-device" "/dev/null") ("uname" "Linux 5.15.0-143-generic")
+  ("locale" "LC_ALL=en_US.utf8") ("test" "test")
+  ("file-exists" "test -e") ("pipe-buf" 4096)
+  ("remote-shell" "/bin/sh") ("~" "/home/trumpov")
+  ("stat" "env QUOTING_STYLE=locale \\stat") ("id" "/usr/bin/id")
+  ("uid-integer" 199) ("uid-string" "trumpov") ("gid-integer" 0)
+  ("gid-string" "root") ("groups-integer" (0 999))
+  ("groups-string" ("root" "docker")) ("case-insensitive" nil)
+  ("readlink" "\\readlink")))

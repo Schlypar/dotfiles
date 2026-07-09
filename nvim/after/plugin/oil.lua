@@ -42,14 +42,14 @@ require("oil").setup({
   -- See :help oil-actions for a list of all available actions
   keymaps = {
     ["g?"] = "actions.show_help",
-    ["<right>"] = "actions.select",
+    ["<CR>"] = "actions.select",  -- Enter для открытия файла/директории
     ["<C-s>"] = "actions.select_vsplit",
     ["<C-h>"] = "actions.select_split",
     ["<C-t>"] = "actions.select_tab",
     ["<C-p>"] = "actions.preview",
     ["<C-c>"] = "actions.close",
     ["gr"] = "actions.refresh",
-    ["<left>"] = "actions.parent",
+    ["^"] = "actions.parent",     -- ^ для подъема в родительскую директорию
     ["_"] = "actions.open_cwd",
     ["`"] = "actions.cd",
     ["~"] = "actions.tcd",

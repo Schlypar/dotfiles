@@ -1,0 +1,33 @@
+((agent-shell-viewport--compose-help-menu nil)
+ (agent-shell-viewport--help-menu nil)
+ (arcer-branch-dispatch nil)
+ (arcer-commit nil)
+ (arcer-dispatch nil)
+ (arcer-pr-dispatch nil)
+ (arcer-pull-dispatch nil)
+ (arcer-push-dispatch nil
+                      ("--force"))
+ (arcer-stash-dispatch nil)
+ (arcer-submit-dispatch nil)
+ (arcit-arcanum-dispatch nil)
+ (arcit-branch-dispatch nil)
+ (arcit-commit nil
+               ("--all"))
+ (arcit-create-pr nil)
+ (arcit-dispatch nil)
+ (arcit-log nil)
+ (arcit-pull nil
+             ("--rebase"))
+ (arcit-push nil)
+ (arcit-submit nil)
+ (magit-branch nil)
+ (magit-commit
+  ("--verbose"))
+ (magit-dispatch nil)
+ (magit-fetch nil)
+ (magit-pull nil)
+ (magit-push nil)
+ (magit-reset nil)
+ (magit-revert
+  ("--edit"))
+ (magit-stash nil))
