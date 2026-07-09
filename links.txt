@@ -1,4 +1,5 @@
 $HOME|assets|
+$HOME|emacs|.emacs.d
 $HOME/.config|hypr|
 $HOME/.config|kitty|
 $HOME/.config|ghostty|
